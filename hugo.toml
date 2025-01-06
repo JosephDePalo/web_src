@@ -4,6 +4,5 @@ title = 'Joseph DePalo'
 theme = 'hugo-book'
 
 [params]
-  # (Optional, default light) Sets color theme: light, dark or auto.
-  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookSection = 'docs'
   BookTheme = 'dark'
