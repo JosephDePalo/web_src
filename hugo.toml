@@ -4,5 +4,10 @@ title = 'Joseph DePalo'
 theme = 'hugo-book'
 
 [params]
-  BookSection = 'docs'
+  BookSection = 'posts'
   BookTheme = 'dark'
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 5
+    startLevel = 1
